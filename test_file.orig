@@ -1,0 +1,16 @@
+this is new file for github
+<<<<<<< HEAD
+this is line from master
+another line from master
+=======
+new line added from branch 
+l;'lsads
+
+asd;asld'as
+da;sdals';ad
+asda;slda;ls'da
+dasdals'dla'sda
+sdalsd'als'dasd
+asda;sld'lasd
+asdas;dl'asld'asdasdlasds
+>>>>>>> new_branch
